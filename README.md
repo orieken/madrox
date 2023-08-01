@@ -1,7 +1,7 @@
 # Madrox
 
 ## playground
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/orieken/madrox)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/stackblitz-starters-4kpq7d?file=src%2Fapp%2Flocale%2Flocale.service.ts)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
